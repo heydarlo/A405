@@ -7,7 +7,20 @@ ________
 
 .. glossary::
 
-   Chemical potential
+     Buoyancy
+     *symbol*: :math:`B` --
+     *units*: :math:`N = kg*m*s^-2`  -- 
+     *Notes*: `Buoyancy and stability'
+
+     *Definition*: The Buoyancy force is the force that is exerted by either a liquid, gas or 
+      other fluid, that opposes an object's weight. A property of an 
+      object that enables it to float on the surface of a liquid, or enables
+      it to ascend through or remain freely suspended in a compressible
+      fluid similar to what we find in the atmosphere.   
+
+
+
+     Chemical potential
      *symbol*: :math:`\mu`--
      *units*: energy/particle
 
@@ -103,6 +116,20 @@ ________
 
      *Definition*: The energy stored in a system as a result of their
      position based on their frame of reference.
+
+     pressure perturbation 
+     *symbol*: :math:`P_D , P_L , or P_NL` --
+     *units*: :math:`Pa`  -- 
+     *Text*: Ch. 8 
+
+     *Definition*: If an object at equilibrium has a compressibility less
+     than that of the surrounding fluid, the object's equilibrium is stable
+     and it remains at rest. If, however, its compressibility is greater,
+     its equilibrium is then unstable, and it rises and expands on the slightest
+     upward perturbation, or falls and compresses on the slightest downward
+     perturbation.
+
+
 
    virtual temperature 
      *symbol*: :math:`T_v` --
